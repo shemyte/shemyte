@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shemyte
+- 👋 Hi, I’m Shemaiah Ngala.
 - 👀 I’m interested in web development full stack.
 - 🌱 I’m currently learning front-end development especially JavaScript and of course html,css.
 - 💞️ I’m currently looking to collaborate on front-end projects.
